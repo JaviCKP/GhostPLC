@@ -13,7 +13,6 @@ The goal is not to pretend this is an enterprise SOC. It is an MVP for observing
 
 ## What It Looks Like
 
-Replace these placeholders with real screenshots once the sensor and dashboard are running.
 
 ![GhostPLC dashboard overview](assets/dashboard-overview.png)
 
