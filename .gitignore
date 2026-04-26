@@ -1,0 +1,52 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+.venv/
+venv/
+
+# Builds and caches
+.next/
+out/
+build/
+dist/
+coverage/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+*.tsbuildinfo
+next-env.d.ts
+
+# Runtime data
+data/
+*.sqlite
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+GeoLite2-*.mmdb
+
+# Secrets and local config
+.env
+.env.local
+.env.*.local
+*.pem
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+*.log
+
+# Tooling
+.vercel/
+.DS_Store
+AGENTS.md
+CLAUDE.md
+

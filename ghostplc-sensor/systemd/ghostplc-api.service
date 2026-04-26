@@ -1,0 +1,17 @@
+[Unit]
+Description=GhostPLC sensor API
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=__GHOSTPLC_USER__
+Group=__GHOSTPLC_GROUP__
+WorkingDirectory=__GHOSTPLC_ROOT__
+EnvironmentFile=-__GHOSTPLC_ROOT__/.env
+ExecStart=__GHOSTPLC_ROOT__/.venv/bin/uvicorn collector.api:app --host 0.0.0.0 --port 8088
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

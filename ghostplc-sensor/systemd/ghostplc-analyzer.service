@@ -1,0 +1,11 @@
+[Unit]
+Description=GhostPLC event analyzer
+After=ghostplc-collector.service
+
+[Service]
+Type=oneshot
+User=__GHOSTPLC_USER__
+Group=__GHOSTPLC_GROUP__
+WorkingDirectory=__GHOSTPLC_ROOT__
+EnvironmentFile=-__GHOSTPLC_ROOT__/.env
+ExecStart=__GHOSTPLC_ROOT__/.venv/bin/python __GHOSTPLC_ROOT__/collector/analyzer.py

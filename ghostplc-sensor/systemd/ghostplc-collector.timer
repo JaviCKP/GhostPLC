@@ -1,0 +1,12 @@
+[Unit]
+Description=Run GhostPLC event collector every minute
+
+[Timer]
+OnBootSec=45s
+OnUnitActiveSec=60s
+AccuracySec=10s
+Persistent=true
+
+[Install]
+WantedBy=timers.target
+
