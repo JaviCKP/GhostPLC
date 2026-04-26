@@ -1,0 +1,24 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#080B10"/>
+  <rect x="80" y="72" width="1440" height="756" rx="18" fill="#0E151F" stroke="#24364A"/>
+  <rect x="112" y="112" width="1376" height="86" rx="10" fill="#111D2A"/>
+  <text x="140" y="166" fill="#E8EEF6" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">GhostPLC live operations view</text>
+  <text x="1160" y="164" fill="#28D17C" font-family="Consolas, Menlo, monospace" font-size="24">PLACEHOLDER</text>
+  <rect x="112" y="230" width="860" height="558" rx="12" fill="#08111A" stroke="#263A4F"/>
+  <circle cx="542" cy="509" r="214" fill="#101C28" stroke="#35516A"/>
+  <circle cx="542" cy="509" r="152" stroke="#28D17C" stroke-width="2" opacity=".45"/>
+  <circle cx="542" cy="509" r="82" stroke="#28D17C" stroke-width="2" opacity=".3"/>
+  <path d="M328 509H756M542 295V723" stroke="#28D17C" stroke-width="2" opacity=".24"/>
+  <circle cx="642" cy="430" r="8" fill="#FFCC66"/>
+  <circle cx="481" cy="583" r="8" fill="#28D17C"/>
+  <circle cx="599" cy="617" r="8" fill="#FF6B6B"/>
+  <rect x="1004" y="230" width="484" height="160" rx="12" fill="#111D2A" stroke="#263A4F"/>
+  <rect x="1004" y="422" width="484" height="160" rx="12" fill="#111D2A" stroke="#263A4F"/>
+  <rect x="1004" y="614" width="484" height="174" rx="12" fill="#111D2A" stroke="#263A4F"/>
+  <text x="1036" y="284" fill="#8FA3B8" font-family="Segoe UI, Arial, sans-serif" font-size="22">Protocols</text>
+  <text x="1036" y="476" fill="#8FA3B8" font-family="Segoe UI, Arial, sans-serif" font-size="22">Recent events</text>
+  <text x="1036" y="668" fill="#8FA3B8" font-family="Segoe UI, Arial, sans-serif" font-size="22">Operator note</text>
+  <path d="M1038 326H1428M1038 350H1350M1038 374H1390" stroke="#28D17C" stroke-width="8" opacity=".7"/>
+  <path d="M1038 518H1448M1038 546H1378" stroke="#E8EEF6" stroke-width="8" opacity=".55"/>
+  <path d="M1038 710H1430M1038 738H1320" stroke="#E8EEF6" stroke-width="8" opacity=".45"/>
+</svg>
