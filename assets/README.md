@@ -4,8 +4,8 @@ Place public screenshots and demo images for the main README here.
 
 Expected filenames:
 
-- `ghostplc-banner.png`
-- `dashboard-overview.png`
+- `ghostplc-banner.svg`
+- `dashboard-overview.svg`
 - `live-event-map.png`
 - `event-feed.png`
 - `sensor-terminal.png`
