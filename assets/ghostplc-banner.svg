@@ -1,0 +1,26 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="420" fill="#070A0F"/>
+  <path d="M0 305C210 258 344 262 520 302C721 348 874 342 1054 291C1233 240 1394 224 1600 270V420H0V305Z" fill="#102033"/>
+  <path d="M0 322C206 279 347 284 522 324C724 370 872 363 1053 313C1236 262 1398 250 1600 291" stroke="#28D17C" stroke-width="3" opacity=".5"/>
+  <g opacity=".32">
+    <path d="M107 88H1493" stroke="#1C3348"/>
+    <path d="M107 145H1493" stroke="#1C3348"/>
+    <path d="M107 202H1493" stroke="#1C3348"/>
+    <path d="M107 259H1493" stroke="#1C3348"/>
+    <path d="M214 54V350" stroke="#1C3348"/>
+    <path d="M394 54V350" stroke="#1C3348"/>
+    <path d="M574 54V350" stroke="#1C3348"/>
+    <path d="M754 54V350" stroke="#1C3348"/>
+    <path d="M934 54V350" stroke="#1C3348"/>
+    <path d="M1114 54V350" stroke="#1C3348"/>
+    <path d="M1294 54V350" stroke="#1C3348"/>
+  </g>
+  <circle cx="1284" cy="156" r="82" stroke="#28D17C" stroke-width="3" opacity=".75"/>
+  <circle cx="1284" cy="156" r="42" stroke="#28D17C" stroke-width="2" opacity=".45"/>
+  <path d="M1190 156H1378M1284 62V250" stroke="#28D17C" stroke-width="2" opacity=".35"/>
+  <path d="M1243 132L1284 110L1325 132V180L1284 203L1243 180V132Z" stroke="#E8EEF6" stroke-width="3"/>
+  <path d="M1262 146H1306M1262 166H1306" stroke="#28D17C" stroke-width="3"/>
+  <text x="110" y="155" fill="#E8EEF6" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="700">GhostPLC Atlas</text>
+  <text x="114" y="215" fill="#8FA3B8" font-family="Segoe UI, Arial, sans-serif" font-size="30">OT honeypot sensor + live dashboard</text>
+  <text x="114" y="270" fill="#28D17C" font-family="Consolas, Menlo, monospace" font-size="24">Conpot / Cowrie / FastAPI / Next.js</text>
+</svg>
