@@ -1,6 +1,6 @@
 # GhostPLC Atlas
 
-![GhostPLC Atlas banner](assets/ghostplc-banner.png)
+![GhostPLC Atlas banner](assets/ghostplc-banner.svg)
 
 GhostPLC Atlas is a small OT honeypot lab that turns raw internet noise into a dashboard you can actually read.
 
@@ -15,7 +15,7 @@ The goal is not to pretend this is an enterprise SOC. It is an MVP for observing
 
 Replace these placeholders with real screenshots once the sensor and dashboard are running.
 
-![GhostPLC dashboard overview](assets/dashboard-overview.png)
+![GhostPLC dashboard overview](assets/dashboard-overview.svg)
 
 ## Why This Exists
 
